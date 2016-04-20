@@ -1,2 +1,2 @@
 # MyWinRegTweaks
-Удобные для меня настройки Windows
+Удобные для меня настройки Windows.
